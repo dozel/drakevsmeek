@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 686e6c7ee8f7f49d58f632433ac5b718
-timeCreated: 1440650163
+guid: d38886ddaab894cec99f5ecba45ed087
+timeCreated: 1440652119
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -58,38 +58,38 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 136
-        height: 224
+        width: 160
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: meek_idle_sheet_1
       rect:
         serializedVersion: 2
-        x: 136
+        x: 160
         y: 0
-        width: 136
-        height: 224
+        width: 160
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: meek_idle_sheet_2
       rect:
         serializedVersion: 2
-        x: 272
+        x: 320
         y: 0
-        width: 136
-        height: 224
+        width: 160
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: meek_idle_sheet_3
       rect:
         serializedVersion: 2
-        x: 408
+        x: 480
         y: 0
-        width: 136
-        height: 224
+        width: 160
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
